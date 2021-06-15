@@ -1,6 +1,11 @@
 Rxn Rover Organization
 ======================
 
+.. image:: img/full_color_logo_3600x3600.jpg
+   :align: center
+   :height: 200px
+   :width: 200px
+
 .. toctree::
    :maxdepth: 2
    :caption: Products
