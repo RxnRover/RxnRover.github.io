@@ -1,7 +1,7 @@
 Rxn Rover Organization
 ======================
 
-.. image:: img/full_color_logo_3600x3600.jpg
+.. image:: img/full_color_transparency_logo_3600x3600.png
    :align: center
    :height: 200px
    :width: 200px
