@@ -27,7 +27,9 @@ jobs:
 
       # Builds the documentation website under ./build/html
       - name: Build documentation website
-        run: ./build_docs.sh
+        run: |
+          chmod +x ./build_docs.sh
+          ./build_docs.sh
 
       # Deploys the website to the gh-pages branch
       - name: Deploy
