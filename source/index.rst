@@ -6,12 +6,14 @@ Rxn Rover Organization
    :height: 200px
    :width: 200px
 
+|rxn_rover|
+
 .. toctree::
    :maxdepth: 2
    :caption: Products
    
-   Rxn Rover Software <https://ReactionRover.github.io/ReactionRover>
-   Rxn Rover Plugin Catalog <https://ReactionRover.github.io/PluginCatalog>
+   Rxn Rover Software <https://RxnRover.github.io/RxnRover>
+   Rxn Rover Plugin Catalog <https://RxnRover.github.io/PluginCatalog>
    
 .. toctree::
    :maxdepth: 1
@@ -19,3 +21,8 @@ Rxn Rover Organization
    
    About Us <about>
    Contact Us <contact>
+
+.. |rxn_rover| raw:: html
+   
+   <a href="https://ReactionRover.github.io/ReactionRover" target="_blank">
+   Rxn Rover Software</a>
