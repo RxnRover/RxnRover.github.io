@@ -6,8 +6,6 @@ Rxn Rover Organization
    :height: 200px
    :width: 200px
 
-|rxn_rover|
-
 .. toctree::
    :maxdepth: 2
    :caption: Products
@@ -24,5 +22,4 @@ Rxn Rover Organization
 
 .. |rxn_rover| raw:: html
    
-   <a href="https://ReactionRover.github.io/ReactionRover" target="_blank">
-   Rxn Rover Software</a>
+   <a href="https://ReactionRover.github.io/ReactionRover" target="_blank"></a>
