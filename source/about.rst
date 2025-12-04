@@ -15,6 +15,12 @@ Team Members
 ------------
 
 | - Zachery Crandall
-| - Kevin Basemann
+| - Dulitha Prasanna Kulathunga
+| - Sunera Wijeratne
+| - John Brittain
 | - Long Qi
 | - Theresa L. Windus
+
+Former Team Members
+-------------------
+| - Kevin Basemann
